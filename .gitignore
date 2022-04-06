@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+Kindle_Store_5.json
 
 # C extensions
 *.so
