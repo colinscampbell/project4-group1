@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cscam/project4-group1/Demo%20Files/mlruns/1/1b1a2a86b99e4423b063216498a505da/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 1b1a2a86b99e4423b063216498a505da
+run_uuid: 1b1a2a86b99e4423b063216498a505da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1649370650120
+status: 1
+tags: []
+user_id: cscam
