@@ -4,7 +4,6 @@ import pandas as pd
 import numpy as np
 
 from pycaret.nlp import *
-#from pycaret.classification import *
 from pycaret.regression import *
 
 from pathlib import Path
@@ -14,8 +13,6 @@ from pycaret.classification import *
 from sklearn.feature_extraction.text import CountVectorizer
 
 
-
-#model = load_model('deployment_review_to_ratings_04082022')
 model = load_model('deployment_04112022')
 model_rating = load_model('deployment_review_to_ratings_04122022')
 
